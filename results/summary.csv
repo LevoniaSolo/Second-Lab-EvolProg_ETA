@@ -1,0 +1,5 @@
+﻿method,runs,feasible_runs,best,mean,median,std,worst
+GA_repair_move,20,20,50,50.55,51.0,0.5104,51
+GA_penalty_move,20,20,50,50.7,51.0,0.4702,51
+GA_repair_swap,20,20,50,50.25,50.0,0.5501,52
+Random_feasible,20,20,50,51.3,51.0,0.6569,52

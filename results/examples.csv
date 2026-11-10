@@ -1,0 +1,5 @@
+﻿example,feasible,max_load,overflow,wrong_fixed,assignment
+valid_1,True,64,0,0,0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4
+valid_2,True,58,0,0,0 4 2 0 3 1 4 2 0 3 1 4 2 0 3 1 4 2 0 4 1 4 2 0 3 1 4 2 0 3
+invalid_1,False,247,180,2,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+invalid_2,False,64,0,1,1 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4 0 1 2 3 4
